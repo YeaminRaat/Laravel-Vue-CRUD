@@ -18,10 +18,6 @@
 
         <!-- Scripts -->
         <script src="{{ asset('js/app.js') }}"></script>
-        <script>
-            $(document).ready(function() {
-                $('#ProductDatatable').DataTable();
-            } );
-        </script>
+        
     </body>
 </html>

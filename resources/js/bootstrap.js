@@ -11,7 +11,6 @@ try {
     window.$ = window.jQuery = require('jquery');
 
     require('bootstrap');
-    require('datatables.net-bs4');
     require('@fortawesome/fontawesome-free');
 } catch (e) {}
 
